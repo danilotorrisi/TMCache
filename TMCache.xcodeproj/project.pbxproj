@@ -8,15 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		B11742171A3F294E00B57015 /* TMCache.m in Sources */ = {isa = PBXBuildFile; fileRef = B11742121A3F294E00B57015 /* TMCache.m */; };
-		B11742181A3F294E00B57015 /* TMDiskCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B11742131A3F294E00B57015 /* TMDiskCache.h */; };
+		B11742181A3F294E00B57015 /* TMDiskCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B11742131A3F294E00B57015 /* TMDiskCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B11742191A3F294E00B57015 /* TMDiskCache.m in Sources */ = {isa = PBXBuildFile; fileRef = B11742141A3F294E00B57015 /* TMDiskCache.m */; };
-		B117421A1A3F294E00B57015 /* TMMemoryCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B11742151A3F294E00B57015 /* TMMemoryCache.h */; };
+		B117421A1A3F294E00B57015 /* TMMemoryCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B11742151A3F294E00B57015 /* TMMemoryCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B117421B1A3F294E00B57015 /* TMMemoryCache.m in Sources */ = {isa = PBXBuildFile; fileRef = B11742161A3F294E00B57015 /* TMMemoryCache.m */; };
-		B117423A1A3F297000B57015 /* TMCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B12A8A601A3F28CB00F24CC6 /* TMCache.h */; };
+		B117423A1A3F297000B57015 /* TMCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B12A8A601A3F28CB00F24CC6 /* TMCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B117423B1A3F297000B57015 /* TMCache.m in Sources */ = {isa = PBXBuildFile; fileRef = B11742121A3F294E00B57015 /* TMCache.m */; };
-		B117423C1A3F297000B57015 /* TMDiskCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B11742131A3F294E00B57015 /* TMDiskCache.h */; };
+		B117423C1A3F297000B57015 /* TMDiskCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B11742131A3F294E00B57015 /* TMDiskCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B117423D1A3F297000B57015 /* TMDiskCache.m in Sources */ = {isa = PBXBuildFile; fileRef = B11742141A3F294E00B57015 /* TMDiskCache.m */; };
-		B117423E1A3F297000B57015 /* TMMemoryCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B11742151A3F294E00B57015 /* TMMemoryCache.h */; };
+		B117423E1A3F297000B57015 /* TMMemoryCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B11742151A3F294E00B57015 /* TMMemoryCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B117423F1A3F297000B57015 /* TMMemoryCache.m in Sources */ = {isa = PBXBuildFile; fileRef = B11742161A3F294E00B57015 /* TMMemoryCache.m */; };
 		B12A8A611A3F28CB00F24CC6 /* TMCache.h in Headers */ = {isa = PBXBuildFile; fileRef = B12A8A601A3F28CB00F24CC6 /* TMCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
@@ -397,6 +397,7 @@
 				B11742361A3F296000B57015 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B12A8A551A3F28CB00F24CC6 /* Build configuration list for PBXProject "TMCache" */ = {
 			isa = XCConfigurationList;
